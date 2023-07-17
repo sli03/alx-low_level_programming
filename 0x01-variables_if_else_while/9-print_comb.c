@@ -1,9 +1,10 @@
 #include <stdio.h>
- /**
-  * main - Prints all possible combinations of single-digit numbers.
-  *
-  * Return: 0 always
-  */
+/**
+ * main - Entry point
+ * Description: 'prints all possible combinations of single-digit numbers.'
+ * @parameter: no parameter on this function
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int c;
